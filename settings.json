@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "ARENA_CLAN.aternos.me",
+    "port": 30101,
     "version": "1.20.1",
     "try-creative": false
   },
